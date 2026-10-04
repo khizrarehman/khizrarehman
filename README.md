@@ -1,44 +1,40 @@
-# khizra / خضرا 🪺
+# Khizra Rehman 🪺
 
-> doing science & overthinking everything else.
+*Doing science & overthinking everything else.*
 
-computational biology · bioinformatics tools · genomics · ngs
+Computational Biology · Bioinformatics · Genomics · Machine Learning
 
-<br>
+---
 
-### currently curious about
+## Currently Curious About
 
-🧬 how genes tell their stories  
-🔬 turning messy biological data into something meaningful  
-🐍 Python · R · NGS · differential expression  
-🧠 machine learning for biology
+- 🧬 How genes tell their stories
+- 🔬 Turning messy biological data into something meaningful
+- 🐍 Python, R, NGS and differential expression
+- 🧠 Machine learning for biology
 
-<br>
+## Things I've Worked With
 
-### things i've worked with
+**Languages:** `Python` `R` `Java` `Perl` `SQL`
 
-`Python` `R` `Java` `Perl` `SQL`  
-`BLAST` `MEGA` `PyMOL` `IGV` `NCBI`  
-`NGS` `Pathway Analysis` `Biomarker Discovery`
+**Tools:** `BLAST` `MEGA` `PyMOL` `IGV` `NCBI`
 
-<br>
+**Methods:** `NGS` `Pathway Analysis` `Biomarker Discovery`
 
-### a little research
+## A Little Research
 
 **Uncovering Crucial Biomarkers for Pathway Analysis in Lung Adenocarcinoma via Differential Gene Expression**
 
-differential gene expression, pathway enrichment, genomic data,  
-and the search for biological signals hiding in the noise.
+Differential gene expression, pathway enrichment, genomic data, and the search for biological signals hiding in the noise.
 
-→ [explore the work](https://khizra-portfolio-brown.vercel.app/#research)
+→ [Explore the work](https://khizra-portfolio-brown.vercel.app/#research)
 
-<br>
+## Outside the Dataset
 
-### outside the dataset
+I write sometimes, mostly when I have too many thoughts.
 
-i write sometimes, mostly when i have too many thoughts.
+→ [Read on Substack](https://substack.com/@khizrarehman)
 
-→ [substack](https://substack.com/@khizrarehman)
+---
 
-<br>
-
+<p align="center"><i>Somewhere between science and everything else.</i></p>
