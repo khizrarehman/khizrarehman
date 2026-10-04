@@ -2,7 +2,7 @@
 
 *Doing science & overthinking everything else.*
 
-Computational Biology · Bioinformatics · Genomics · Machine Learning
+Computational Biology · Bioinformatics Tools · Genomics · NGS
 
 ---
 
@@ -34,7 +34,3 @@ Differential gene expression, pathway enrichment, genomic data, and the search f
 I write sometimes, mostly when I have too many thoughts.
 
 → [Read on Substack](https://substack.com/@khizrarehman)
-
----
-
-<p align="center"><i>Somewhere between science and everything else.</i></p>
