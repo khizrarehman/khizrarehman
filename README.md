@@ -2,7 +2,7 @@
 
 > doing science & overthinking everything else.
 
-computational biology · bioinformatics · genomics · machine learning
+computational biology · bioinformatics tools · genomics · ngs
 
 <br>
 
