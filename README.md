@@ -42,6 +42,3 @@ i write sometimes, mostly when i have too many thoughts.
 
 <br>
 
----
-
-*somewhere between science and everything else.*
